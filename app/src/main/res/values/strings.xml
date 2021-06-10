@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">2019 MAD</string>
+    <string name="txtMovies">Movies</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="add">Add</string>
+    <string name="rate">Rate</string>
+    <string name="comments">Comments</string>
+    <string name="current_rating">Current Rating</string>
+</resources>
